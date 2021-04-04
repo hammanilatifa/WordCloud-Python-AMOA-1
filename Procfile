@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run WordCloud_Amoa.py
+web: bash setup.sh && streamlit run WordCloud_Amoa.py
